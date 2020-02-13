@@ -1,8 +1,3 @@
-#    Names:	Nathaniel Mahlum 	(Nathaniel.Mahlum@tufts.edu)
-#           Jacob Kroner		(Jacob.Kroner@tufts.edu)
-#    Assignment 4: Genetic Algorithms
-#  ____________________________________________________________________
-
 from chromosome import Chromosome
 from population import Population
 from queue import PriorityQueue
