@@ -1,8 +1,3 @@
-#    Names:	Nathaniel Mahlum 	(Nathaniel.Mahlum@tufts.edu)
-#           Jacob Kroner		(Jacob.Kroner@tufts.edu)
-#    Assignment 4: Genetic Algorithms
-#  ____________________________________________________________________
-
 import random
 
 GLOBAL_WEIGHT   = [20, 30, 60, 90, 50, 70, 30]
