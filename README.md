@@ -1,3 +1,6 @@
+Problem:
+You are going on a hiking trip, and there is a limit to the things you can bring. You have two things: a backpack with a size (the weight it can hold that is) and a set of boxes with different weights and different importance values. The goal is to fill the backpack to make it as valuable as possible without exceeding the maximum weight (120). 
+
 The problem is a genetic algorithm that finds the best combination
 of boxes without exceeding the maximum weight.
 
